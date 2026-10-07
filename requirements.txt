@@ -1,0 +1,13 @@
+transformers==5.15.1
+accelerate
+sentencepiece
+opencv-python-headless
+imageio[pyav]
+imageio-ffmpeg
+torchvision
+kernels
+pillow
+numpy
+matplotlib
+gradio==6.26.0
+spaces
